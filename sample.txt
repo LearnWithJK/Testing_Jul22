@@ -1,3 +1,1 @@
-This is a sample file. I am adding new lines to check the git push.
-
-Hi Welcome
+Hi, How are you?
